@@ -1,0 +1,68 @@
+{
+  "companyName": "pnpcodes",
+  "streetAddress1": "22 Baker Street",
+  "streetAddress2": "Unit #24",
+  "city": "Watershed",
+  "province": "Nova Scotia",
+  "country": "Canada",
+  "established": 1965,
+  "active": true,
+  "slogan": "Can't hink of anything right now",
+  "featuredProducts": [
+    345678,
+    345679,
+    123534
+  ],
+  "products": [
+    {
+      "sku": 345678,
+      "name": "Worms",
+      "weight": 1,
+      "dimensions": {
+        "height": 10,
+        "width": 10,
+        "length": 20
+      },
+      "price": 2.38
+    },
+    {
+      "sku": 345679,
+      "name": "Leeches",
+      "weight": 1,
+      "dimensions": {
+        "height": 87,
+        "width": 70,
+        "length": 30
+      },
+      "price": 20.38
+    },
+    {
+      "sku": 345680,
+      "name": "Minnows",
+      "weight": 1,
+      "dimensions": {
+        "height": 87,
+        "width": 70,
+        "length": 30
+      },
+      "price": 70.38
+    },
+    {
+      "sku": 345689,
+      "name": "Colosus Squid",
+      "weight": 1,
+      "dimensions": {
+        "height": 87,
+        "width": 70,
+        "length": 30
+      },
+      "price": 250.38
+    }
+    
+  ],
+
+  "onSale": [
+    {"sku": 345678, "discountPercent": 25},
+    {"sku": 345389, "discountPercent": 75}
+  ]
+}
